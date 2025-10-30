@@ -29,4 +29,4 @@ The detailed project report is included in this repository as:
 **Aditya_SkillForge_Report.pdf**
 
 ## LinkedIn
-(www.linkedin.com/in/adithya-vardhan-reddy-sangi-reddy-901881385)
+[Adithya vardhan reddy Sangi reddy](www.linkedin.com/in/adithya-vardhan-reddy-sangi-reddy-901881385)
